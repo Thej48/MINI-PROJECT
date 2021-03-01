@@ -1,0 +1,64 @@
+body{
+    background-image: url('../images/8.jpeg');
+    background-size: 100% 100%;
+    background-position: top ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 50vh;
+}
+.fnt1{
+    font-family:Pristina;
+    text-shadow: 2px 3px 5px rgb(180, 29, 29);
+    color: black;
+}
+.login{
+    background:linear-gradient(65deg,#ffc0cb,#add8e6);
+    padding: 50px 50px 50px 50px;
+    box-shadow: 3px 3px 3px 3px #3a3a3a;
+}
+.fnt2{
+    font-family: pristina;
+    text-shadow: 3px 3px 3px rgb(65, 64, 64);
+}
+nav{
+    box-shadow: 3px 3px 3px ;
+}
+.icon{
+    display: flex;
+}
+.services-card{
+    background-color: rgba(172, 170, 170, 0.5);
+    box-shadow: 3px 3px 5px rgb(70, 69, 69);
+    border-radius: 2px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+  }
+  .services-card:hover{
+    background:linear-gradient(65deg, pink,lightblue);
+    transition: 0.5s;
+  }
+  .logo{
+    font-size: 50px;
+    color:black;
+  }
+  .fnt{
+    font-family:Matura MT Script Capitals;
+    text-shadow: 2px 3px 5px rgb(104, 102, 102);
+    color: black;
+    margin-top: 30px;
+    margin-left: 80px;
+  }
+  .tt{
+    font-size: 30px;
+    color: black;
+    font-family: Pristina;
+    text-shadow: 2px 3px 5px rgb(104, 102, 102);
+  }
+  .par{
+    font-size: 20px;
+    color: black;
+    font-family: Pristina;
+    text-shadow: 2px 3px 5px rgb(104, 102, 102);
+  }
